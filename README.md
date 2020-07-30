@@ -1,4 +1,5 @@
-### This is Sammuel Silva!
+
+### This is Sammuel Silva Profile!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SammuelSilva)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sammuel-ramos-405859163/)
@@ -6,8 +7,8 @@
 Welcome to my Github page! I am Sammuel and I am currently finishing my Computer Science degree at the Federal University of Ouro Preto!
 
 #### 🔭 Things I am currently working on: 
-- **Finish my Computer Science Degree 
-- ***Hardware Development for Neural Network acceleration on Smart Cameras
+- **Finish my Computer Science Degree **
+- ***Hardware Development for Neural Network acceleration on Smart Cameras***
 - Taking online courses about: DataBase, Data Science and Machine Learning
 
 #### :muscle: Things I am challenging myself with:
@@ -17,11 +18,11 @@ Welcome to my Github page! I am Sammuel and I am currently finishing my Computer
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
-- ***Python
-- ***C/C++
-- ***Java
-- ***VHDL
-- ***SQL
+- ***Python***
+- ***C/C++***
+- ***Java***
+- ***VHDL***
+- ***SQL***
 
 <br />
 
