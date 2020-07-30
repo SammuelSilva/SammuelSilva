@@ -7,7 +7,7 @@
 Welcome to my Github page! I am Sammuel and I am currently finishing my Computer Science degree at the Federal University of Ouro Preto!
 
 #### 🔭 Things I am currently working on: 
-- **Finish my Computer Science Degree **
+- *Finish my Computer Science Degree*
 - ***Hardware Development for Neural Network acceleration on Smart Cameras***
 - Taking online courses about: DataBase, Data Science and Machine Learning
 
@@ -23,9 +23,3 @@ Welcome to my Github page! I am Sammuel and I am currently finishing my Computer
 - ***Java***
 - ***VHDL***
 - ***SQL***
-
-<br />
-
-<div><p>My overview: </p></div>
-![SammuelSilva's github stats](https://github-readme-stats.vercel.app/api?username=SammuelSilva&show_icons=true)
-<br \>
