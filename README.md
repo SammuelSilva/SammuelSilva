@@ -3,14 +3,33 @@
 <!--
 **SammuelSilva/SammuelSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### This is Fernando Roldán!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SammuelSilva)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sammuel-ramos-405859163/)
+
+Welcome to my Github page! I am Sammuel and I am currently finishing my Computer Science degree at the Federal University of Ouro Preto!
+
+#### 🔭 Things I am currently working on: 
+- **Finish my Computer Science Degree 
+- ***Hardware Development for Neural Network acceleration on Smart Cameras
+- Taking online courses about: DataBase, Data Science and Machine Learning
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day (~~Well, most of the days~~ 😄)
+- Coding at least 4 hours a day
+- Exercising 2 days a week (~~Trying to get to 3 days, but it's hard for some people~~)
+- Improving my CV with some education apart from university
+
+#### :computer: Programming languages and tools: 
+- ***Python
+- ***C/C++
+- ***Java
+- ***VHDL
+- ***SQL
+
+<br />
+
+<div><p>My overview: </p></div>
+![SammuelSilva's github stats](https://github-readme-stats.vercel.app/api?username=SammuelSilva&show_icons=true)
+<br \>
