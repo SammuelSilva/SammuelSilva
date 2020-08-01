@@ -10,6 +10,7 @@ Welcome to my Github page! I am Sammuel and I am currently finishing my Computer
 - *Finish my Computer Science Degree*
 - ***Hardware Development for Neural Network acceleration on Smart Cameras***
 - Taking online courses about: DataBase, Data Science and Machine Learning
+- Learning React Native and CSS (~~I Hate this two~~)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day (~~Well, most of the days~~ 😄)
